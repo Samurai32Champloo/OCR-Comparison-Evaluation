@@ -1,2 +1,2 @@
-# -OCR-Comparison-Evaluation
-This repository contains a Python project for evaluating OCR providers (Tesseract, DocTR, EasyOCR) using metrics like CER, WER, and MER. It includes ground truth text files and PDF documents for comparison, addressing challenges like PDF conversion, language configuration, and processing delays.
+# OCR-Comparison-Evaluation
+This repository contains a Python project implemented in Jupyter Notebook for the evaluation and comparison of various OCR providers, including Tesseract, DocTR, and EasyOCR. The test setup includes the use of ground truth text files and original PDF documents, which are processed to assess OCR accuracy using metrics such as CER, WER, and MER. Additionally, OCR confidence values are extracted and aggregated. The repository also highlights the challenges and limitations encountered during testing, such as issues with PDF conversion and language configurations.
